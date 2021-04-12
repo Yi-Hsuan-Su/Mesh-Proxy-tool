@@ -1,0 +1,96 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(477,5): warning MSB8004: Output 目錄結尾不是結尾斜線。這個建置執行個體將會加入此斜線，因為這樣才能正確評估 Output 目錄。
+  Common.cpp
+D:\model_proxy_tool\Program\Source\Common.cpp(151,25): warning C4018: '<': signed/unsigned 不相符
+D:\model_proxy_tool\Program\Source\Common.cpp(153,26): warning C4018: '<': signed/unsigned 不相符
+  ResourcePath.cpp
+  ShaderObject.cpp
+  DrawLineshader.cpp
+  DrawModelShader.cpp
+  DrawPickingFaceShader.cpp
+  DrawPointShader.cpp
+  OpenMesh.cpp
+  PickingShader.cpp
+  PickingTexture.cpp
+  TextureParameterization.cpp
+D:\model_proxy_tool\Program\Source\TextureParameterization\TextureParameterization.cpp(142,20): warning C4018: '<': signed/unsigned 不相符
+D:\model_proxy_tool\Program\Source\TextureParameterization\TextureParameterization.cpp(147,20): warning C4018: '<': signed/unsigned 不相符
+D:\model_proxy_tool\Program\Source\TextureParameterization\TextureParameterization.cpp(228,20): warning C4018: '<': signed/unsigned 不相符
+D:\model_proxy_tool\Program\Source\TextureParameterization\TextureParameterization.cpp(470,21): warning C4018: '<': signed/unsigned 不相符
+D:\model_proxy_tool\Program\Source\TextureParameterization\TextureParameterization.cpp(490,21): warning C4018: '<': signed/unsigned 不相符
+D:\model_proxy_tool\Program\Source\TextureParameterization\TextureParameterization.cpp(587,22): warning C4018: '<': signed/unsigned 不相符
+D:\model_proxy_tool\Program\Source\TextureParameterization\TextureParameterization.cpp(645,21): warning C4018: '<': signed/unsigned 不相符
+D:\model_proxy_tool\Program\Source\TextureParameterization\TextureParameterization.cpp(678,21): warning C4018: '<': signed/unsigned 不相符
+D:\model_proxy_tool\Program\Source\TextureParameterization\TextureParameterization.cpp(743,22): warning C4018: '<': signed/unsigned 不相符
+D:\model_proxy_tool\Program\Source\TextureParameterization\TextureParameterization.cpp(907,21): warning C4018: '<': signed/unsigned 不相符
+D:\model_proxy_tool\Program\Source\TextureParameterization\TextureParameterization.cpp(909,22): warning C4018: '<': signed/unsigned 不相符
+D:\model_proxy_tool\Program\Source\TextureParameterization\TextureParameterization.cpp(922,21): warning C4018: '<': signed/unsigned 不相符
+D:\model_proxy_tool\Program\Source\TextureParameterization\TextureParameterization.cpp(930,21): warning C4018: '<': signed/unsigned 不相符
+D:\model_proxy_tool\Program\Source\TextureParameterization\TextureParameterization.cpp(970,21): warning C4018: '<': signed/unsigned 不相符
+D:\model_proxy_tool\Program\Source\TextureParameterization\TextureParameterization.cpp(995,21): warning C4018: '<': signed/unsigned 不相符
+D:\model_proxy_tool\Program\Source\TextureParameterization\TextureParameterization.cpp(1011,20): warning C4244: '=': 將 'double' 轉換為 'Scalar'，由於類型不同，可能導致資料遺失
+          with
+          [
+              Scalar=float
+          ]
+D:\model_proxy_tool\Program\Source\TextureParameterization\TextureParameterization.cpp(1018,48): warning C4244: '=': 將 'double' 轉換為 'Scalar'，由於類型不同，可能導致資料遺失
+          with
+          [
+              Scalar=float
+          ]
+D:\model_proxy_tool\Program\Source\TextureParameterization\TextureParameterization.cpp(1027,15): warning C4244: '=': 將 'double' 轉換為 'Scalar'，由於類型不同，可能導致資料遺失
+          with
+          [
+              Scalar=float
+          ]
+D:\model_proxy_tool\Program\Source\TextureParameterization\TextureParameterization.cpp(1034,15): warning C4244: '=': 將 'double' 轉換為 'Scalar'，由於類型不同，可能導致資料遺失
+          with
+          [
+              Scalar=float
+          ]
+D:\model_proxy_tool\Program\Source\TextureParameterization\TextureParameterization.cpp(1048,22): warning C4018: '<': signed/unsigned 不相符
+D:\model_proxy_tool\Program\Include\OpenMesh\Core\Geometry\Vector11T.hh(233,1): warning C4244: '*=': 將 'const OtherScalar' 轉換為 '_Ty'，由於類型不同，可能導致資料遺失
+          with
+          [
+              OtherScalar=double
+          ]
+          and
+          [
+              _Ty=float
+          ]
+D:\model_proxy_tool\Program\Include\OpenMesh\Core\Geometry\Vector11T.hh(257): message : 請參考正在進行編譯的函式 樣板 具現化 'OpenMesh::VectorT<float,3> &OpenMesh::VectorT<float,3>::operator *=<OtherScalar>(const OtherScalar &)'
+          with
+          [
+              OtherScalar=double
+          ]
+D:\model_proxy_tool\Program\Include\OpenMesh\Core\Geometry\Vector11T.hh(257): message : 請參考正在進行編譯的函式 樣板 具現化 'OpenMesh::VectorT<float,3> &OpenMesh::VectorT<float,3>::operator *=<OtherScalar>(const OtherScalar &)'
+          with
+          [
+              OtherScalar=double
+          ]
+D:\model_proxy_tool\Program\Source\TextureParameterization\TextureParameterization.cpp(234): message : 請參考正在進行編譯的函式 樣板 具現化 'OpenMesh::VectorT<float,3> OpenMesh::VectorT<float,3>::operator *<double>(const OtherScalar &) const'
+          with
+          [
+              OtherScalar=double
+          ]
+D:\model_proxy_tool\Program\Source\TextureParameterization\TextureParameterization.cpp(234): message : 請參考正在進行編譯的函式 樣板 具現化 'OpenMesh::VectorT<float,3> OpenMesh::VectorT<float,3>::operator *<double>(const OtherScalar &) const'
+          with
+          [
+              OtherScalar=double
+          ]
+  MeshObject.cpp
+D:\model_proxy_tool\Program\Source\TextureParameterization\MeshObject.cpp(220,21): warning C4018: '<': signed/unsigned 不相符
+D:\model_proxy_tool\Program\Source\TextureParameterization\MeshObject.cpp(276,20): warning C4018: '<': signed/unsigned 不相符
+D:\model_proxy_tool\Program\Source\TextureParameterization\MeshObject.cpp(287,20): warning C4018: '<': signed/unsigned 不相符
+D:\model_proxy_tool\Program\Source\TextureParameterization\MeshObject.cpp(298,20): warning C4018: '<': signed/unsigned 不相符
+D:\model_proxy_tool\Program\Source\TextureParameterization\MeshObject.cpp(329,20): warning C4018: '<': signed/unsigned 不相符
+D:\model_proxy_tool\Program\Source\TextureParameterization\MeshObject.cpp(400,20): warning C4018: '<': signed/unsigned 不相符
+  tiny_obj_loader.cpp
+  ViewManager.cpp
+D:\model_proxy_tool\Program\Source\ViewManager.cpp(134,14): warning C4244: '引數': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+D:\model_proxy_tool\Program\Source\ViewManager.cpp(139,14): warning C4244: '引數': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+D:\model_proxy_tool\Program\Source\ViewManager.cpp(283,18): warning C4244: '=': 將 'int' 轉換為 'float'，由於類型不同，可能導致資料遺失
+  正在產生程式碼
+  Previous IPDB was built with incompatible compiler, fall back to full compilation.
+  All 3517 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成程式碼產生
+  TextureParameterization.vcxproj -> D:\model_proxy_tool\Program\Assets\TextureParameterization.exe
